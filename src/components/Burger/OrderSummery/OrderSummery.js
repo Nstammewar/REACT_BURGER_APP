@@ -3,7 +3,6 @@ import Aux from '../../../hoc/Merge';
 import Button from '../../UI/Button/Button'
 class OrderSummery extends Component  {
     componentWillUpdate() {
-        console.log('[OrderSummery] WillUpdate ');
         
     }
     render(){
